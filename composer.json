@@ -16,5 +16,12 @@
         "psr-4": {
             "Jundayw\\LaravelCacheGuard\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jundayw\\LaravelCacheGuard\\CacheGuardServiceProvider"
+            ]
+        }
     }
 }

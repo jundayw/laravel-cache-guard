@@ -5,7 +5,4 @@ composer require jundayw/laravel-cache-guard
 ````
 
 # 使用方法
-add the ServiceProvider to the providers array in config/app.phpx
-````
-Jundayw\LaravelCacheGuard\CacheGuardServiceProvider::class,
-````
+authentication package that is simple and enjoyable to use.
